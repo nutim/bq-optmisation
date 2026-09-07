@@ -1,0 +1,5 @@
+name: bigquery-finops-agent
+agent_directory: app
+create_params:
+  deployment_target: cloud_run
+
